@@ -4,6 +4,9 @@
 
 using namespace example;
 
-int main(void) {
+int main(void)
+{
     std::cout << hello("world");
+
+    return 0;
 }
